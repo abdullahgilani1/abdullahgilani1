@@ -1,159 +1,138 @@
-👨‍💻 Abdullah Gilani
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Full+Stack+Developer+(MERN);UI%2FUX+Designer;Accessibility+Focused+Developer;Founder+%7C+Innovate+Hub;Building+Technology+That+Solves+Real+Problems" /> </p>
-🌌 About Me
-Software Engineer | Full Stack Developer | UI/UX Designer | Entrepreneur
+Abdullah Gilani
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer+(MERN);UI%2FUX+Designer;Founder+%7C+Innovate+Hub;Building+Technology+That+Solves+Real+Problems" /> </p>
+About Me
 
-I’m a Software Engineer and Full Stack Developer passionate about building scalable systems, modern web platforms, and accessible technology.
+I am a Software Engineer and Full Stack Developer passionate about building scalable applications, intuitive user interfaces, and real-world digital solutions.
 
-My work combines software engineering, UI/UX design, and product thinking to create digital experiences that are both functional and user-friendly.
+My work combines software engineering, UI/UX design, and product thinking to create systems that are both technically robust and user-focused.
 
-I also run Innovate Hub, a creative and technical studio delivering IT solutions, software development, branding, and print services.
+Alongside development, I run Innovate Hub, where I provide software development, web solutions, branding, and print services for businesses.
 
-What I Focus On
+Focus Areas
 
-💻 Full Stack Development — MERN stack applications
-🎨 UI/UX Design — intuitive mobile & web interfaces
-🧠 Accessibility Technology — software for disabled users
-🚀 Product Development — real-world business solutions
-🏢 Entrepreneurship — Founder of Innovate Hub (IT & Print Solutions)
+Full Stack Web Development (MERN Stack)
 
-🎯 Mission: Build impactful digital systems that solve real-world problems.
+UI/UX Design for Web and Mobile
 
-🧠 Tech Stack
-Languages
+Accessibility-Focused Software
+
+Business Software Solutions
+
+Technology Entrepreneurship
+
+Mission
+
+To design and develop technology that improves accessibility, efficiency, and digital experiences.
+
+Tech Stack
+Programming Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=javascript,python,cpp,cs,java" /> </p>
 Web Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,html,css,tailwind" /> </p>
-Tools & Platforms
+Tools & Design
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd,linux,docker" /> </p>
-🚀 Featured Projects
-🎮 GamingThroughVoiceRecognition (Final Year Project)
+Key Projects
+GamingThroughVoiceRecognition
 
-Accessibility-focused Windows system that allows disabled users to launch and control games using voice commands.
+Final Year Project focused on accessibility in gaming.
+A Windows application enabling disabled users to launch and control games using voice commands.
 
-Features:
+Technologies
 
-Voice-based game launcher
+C# • WPF • Python Voice Recognition • SQL Server
 
-Custom voice controls
+E-Registration Portal
 
-Local voice recognition system
+A full-stack registration platform with authentication and dashboard functionality.
 
-User authentication with database
+Features
 
-Tech Stack
+Secure login system
 
-C# • WPF • Python • SQL Server
+Password encryption
 
-🌐 E-Registration Portal
+User dashboard
 
-A secure full-stack web portal with registration, authentication, and dashboard system.
+Database integration
 
-Features:
+Technologies
 
-User authentication
+React • Python Flask • MySQL
 
-Secure password encryption
+Restaurant Management System
 
-Dashboard interface
+A complete MERN stack restaurant platform with dynamic menu management and admin dashboard.
 
-MySQL database integration
-
-Tech Stack
-
-React • Python Flask • MySQL • REST API
-
-🍽 Restaurant Management Website
-
-A full MERN stack restaurant management platform with dynamic menus and admin dashboard.
-
-Features:
-
-Admin panel
-
-Menu management
-
-User authentication
-
-Dynamic database system
-
-Tech Stack
+Technologies
 
 MongoDB • Express • React • Node.js
 
-🏢 Showroom Management System
+Showroom Management System
 
-A desktop-based management system used by multiple clients for handling showroom operations.
+A desktop application currently used by multiple clients for managing showroom operations.
 
-Features:
+Features
 
 Inventory management
 
-Sales records
+Sales tracking
 
 Customer database
 
-Billing management
+Billing system
 
-Tech Stack
+Technologies
 
 C# • .NET • SQL Server
 
-🎓 AEED Educational Website
+AEED Educational Website
 
-Educational platform designed to provide learning resources and academic content for students.
+Educational platform providing structured academic content and learning resources.
 
-Features:
-
-Structured course content
+Focus
 
 Responsive design
 
+User-friendly UI
+
 Educational resource management
 
-Optimized UI/UX for accessibility
+Technologies
 
-Tech Stack
+HTML • CSS • JavaScript
 
-HTML • CSS • JavaScript • CMS
-
-🏢 Business
 Innovate Hub
 
-Innovate Hub provides:
+Innovate Hub – IT & Print Solutions
+
+Services include:
 
 Custom Software Development
 
-Web Development
+Web Application Development
 
 UI/UX Design
 
-Branding & Print Solutions
+Branding & Digital Identity
 
-Business Digitalization
+Print Solutions for Businesses
 
-Mission:
+Goal:
 
-Deliver modern technology and creative solutions for businesses.
+Helping businesses modernize through technology and design.
 
-📊 GitHub Statistics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahgilani1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahgilani1&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=abdullahgilani1&theme=tokyonight&hide_border=true"/> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahgilani1&theme=tokyo-night"/> </p>
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abdullahgilani1&theme=tokyonight&no-frame=true&column=7"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/abdullahgilani1/abdullahgilani1/blob/output/github-contribution-grid-snake.svg"/> </p>
-🌍 Connect With Me
-<p align="center"> <a href="https://abdullahgilani.wixsite.com/my-site"> <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/> </a> <a href="mailto:gilani1030@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
-👀 Profile Views
+GitHub Statistics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahgilani1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahgilani1&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+GitHub Activity
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=abdullahgilani1&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahgilani1&theme=tokyo-night"/> </p>
+Connect With Me
+<p align="center"> <a href="https://abdullahgilani.wixsite.com/my-site"> <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge"> </a> <a href="mailto:gilani1030@gmail.com"> <img src="https://img.shields.io/badge/Email-gilani1030@gmail.com-red?style=for-the-badge&logo=gmail"> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"> </a> </p>
+Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahgilani1&style=for-the-badge&color=blue"/> </p>
-⭐ Support My Work
+Support My Work
 
-If you like my work:
+If you find my projects useful:
 
-⭐ Star my repositories
+⭐ Star the repository
 🍴 Fork and contribute
-💬 Open issues or suggestions
+💬 Share feedback or suggestions
