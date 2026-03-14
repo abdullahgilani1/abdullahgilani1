@@ -1,15 +1,16 @@
-Abdullah Gilani
+<h1>Syed Muhammad Abdullah Gilani</h1>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer+(MERN);UI%2FUX+Designer;Founder+%7C+Innovate+Hub;Building+Technology+That+Solves+Real+Problems" /> </p>
+<h1>
 About Me
-
+</h1>
 I am a Software Engineer and Full Stack Developer passionate about building scalable applications, intuitive user interfaces, and real-world digital solutions.
-
 My work combines software engineering, UI/UX design, and product thinking to create systems that are both technically robust and user-focused.
-
 Alongside development, I run Innovate Hub, where I provide software development, web solutions, branding, and print services for businesses.
-
+<h2>
 Focus Areas
+</h2>
 
+<p>
 Full Stack Web Development (MERN Stack)
 
 UI/UX Design for Web and Mobile
@@ -19,25 +20,33 @@ Accessibility-Focused Software
 Business Software Solutions
 
 Technology Entrepreneurship
+</p>
 
+<h2>
 Mission
-
+</h2>
 To design and develop technology that improves accessibility, efficiency, and digital experiences.
 
+<h2>
 Tech Stack
-Programming Languages
+</h2>
+
+<h3>Programming Languages</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=javascript,python,cpp,cs,java" /> </p>
-Web Development
+<h3>Web Development</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,html,css,tailwind" /> </p>
-Tools & Design
+<h3>Tools & Design</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd,linux,docker" /> </p>
-Key Projects
-GamingThroughVoiceRecognition
+
+
+<h2>Key Projects</h2>
+
+<h3>GamingThroughVoiceRecognition</h3>
 
 Final Year Project focused on accessibility in gaming.
 A Windows application enabling disabled users to launch and control games using voice commands.
 
-Technologies
+<h4>Technologies</h4>
 
 C# • WPF • Python Voice Recognition • SQL Server
 
